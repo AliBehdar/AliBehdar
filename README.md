@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AliBehdar
+- 👋 Hi, I’m @Ali Behdarnejad
 - 👀 I’m interested in Reinforcment Learning, machine Learning, LLM, VLM, Deep leaning and more
 - 🌱 I’m currently learning Reinforcement Learning, machine Learning,
 - 💞️ I’m looking to collaborate on VLM in Reinforcement Learning

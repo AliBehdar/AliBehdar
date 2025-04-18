@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ali Behdarnejad
 - 👀 I’m interested in Reinforcment Learning, machine Learning, LLM, VLM, Deep leaning and more
-- 🌱 I’m currently learning Reinforcement Learning and machine Learning
+- 🌱 I’m currently working on VLAs and RL
 - 💞️ I’m intersted to collaborate on VLM in Reinforcement Learning
 - 📫 To reach me, I'm here at linkedin https://www.linkedin.com/in/ali-behdarnejad-4639a8279/
 - 😄 Pronouns: Do you think is this improtant?

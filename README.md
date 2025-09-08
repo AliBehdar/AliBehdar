@@ -4,7 +4,7 @@
 - 💞️ I’m intersted to collaborate on VLM in Reinforcement Learning
 - 📫 To reach me, I'm here at linkedin https://www.linkedin.com/in/ali-behdarnejad-4639a8279/
 - 😄 Pronouns: Do you think is this improtant?
-- ⚡ Fun fact: Today is yesterdays tommorow
+- ⚡ Fun fact: Today is yesterdays of tommorow
 
 <!---
 AliBehdar/AliBehdar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

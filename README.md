@@ -10,5 +10,8 @@
 AliBehdar/AliBehdar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliBehdar)](https://github.com/AliBehdar/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliBehdar&layout=donut)](https://github.com/AliBehdar/github-readme-stats)
+
+<div align="center">
+<img alt="Ali Behdar's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AliBehdar&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliBehdar&layout=compact&&langs_count=8"/>
+</div>

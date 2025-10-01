@@ -10,7 +10,7 @@
 AliBehdar/AliBehdar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,git,github,gitlab,openstack,powershell,ubuntu,linux,anaconda,docker,elasticsearch,django,vscode,linkedin,numpy,pandas)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,git,github,gitlab,openstack,powershell,ubuntu,linux,anaconda,docker,elasticsearch,django,vscode,numpy,pandas)](https://skillicons.dev)
 <div align="center">
 <img alt="Ali Behdar's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AliBehdar&show_icons=true&theme=transparent"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliBehdar&layout=compact&&langs_count=8"/>
